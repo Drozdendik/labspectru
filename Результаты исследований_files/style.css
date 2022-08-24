@@ -94,6 +94,8 @@
  }
 .container-covid-qr .table-row {
     margin-bottom: 0.7rem;
+    border: 0px;
+    
 }
 .container-covid-qr .table-header{
     font-weight: 600;
